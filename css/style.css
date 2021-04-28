@@ -20,7 +20,7 @@
 
 .container{
     background-image: url(../img/jumbo.png);
-    height: 800px;
+    height: 850px;
     background-position: center;
     background-size: cover;
     padding-top: 30px;
@@ -71,7 +71,27 @@
     line-height: 34px;
 }
 
+.block-center{
+    border: black 2px solid;
+    height: 500px;
+    width: 860px;
+    position: relative;
+    text-align: center;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50% , -50%);
+    font-family: 'Pontano Sans', sans-serif; 
+    color: white;
+}
 
+.txt1{
+    font-size: 60px;
+    font-weight: bold;
+}
+
+.txt2{
+    font-size: 22px;
+}
 
 
 
