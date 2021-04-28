@@ -72,7 +72,6 @@
 }
 
 .block-center{
-    border: black 2px solid;
     height: 500px;
     width: 860px;
     position: relative;
@@ -93,6 +92,36 @@
     font-size: 22px;
 }
 
+.container-buttons{
+    padding: 40px 0px 0px 110px;
+    line-height: 50px;
+    font-family: 'Pontano Sans', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.download-mac{
+    height: 60px;
+    width: 40%;
+    border-radius: 90px;
+    background-color: white;
+    color: black;
+    margin-right: 20px;
+}
+
+.open-browser{
+    height: 60px;
+    width: 40%;
+    border-radius: 90px;
+    background-color: black;
+    color: white;
+}
+
+.icon-dw{
+    margin-right: 20px;
+font-size: 30px;
+font-weight: bold;
+}
 
 
 
