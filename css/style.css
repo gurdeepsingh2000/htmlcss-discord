@@ -24,6 +24,7 @@
     background-position: center;
     background-size: cover;
     padding-top: 30px;
+    margin-bottom: 70px;
 }
 
 .top-box{
@@ -122,26 +123,39 @@
 }
 
 .icon-dw{
-    margin-right: 20px;
+margin-right: 20px;
 font-size: 30px;
 font-weight: bold;
 }
 
 
-
-.container-2{
-    height: 800px;
-    width: 100%;
-    background: yellowgreen;
+.second-container{
+    max-width: 1200px;
+    height: 900px;
+    margin: 0 auto;
 }
 
-.img-box{
-    background-color: rgb(0, 0, 0);
-    height: 450px;
-    max-width: 800px;
+.txt3{
+        width: 38%;
+        padding: 20px 30px;
 }
 
+.sub-txt3{
+    font-size: 53px;
+    font-weight: bold;
+    font-family: system-ui;
+}
 
+.sub-txt4{
+    line-height: ;
+    font-size: 25px;
+    font-family: system-ui;
+    margin-top: 20px;
+}
+
+.wavePath-haxJK1{
+    background-color: grey;
+}
 
 
 
