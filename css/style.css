@@ -236,3 +236,70 @@ font-weight: bold;
     top: 20px;
     
 }
+
+.footer-menu{
+        height: 700px;
+        background-color: rgb(24, 24, 24);
+        padding-top: 70px;
+}
+
+.container-menu{
+        max-width: 1000px;
+        margin: 0 auto;
+}
+
+.menu-root{
+    width: 25%;
+    margin-right: 70px;
+}
+
+.menu-1{
+    width: 10%;
+}
+
+.txt-footer{
+    font-size: 34px;
+    color: cornflowerblue;
+    font-weight: bold;
+    font-family: 'Pontano Sans', sans-serif;
+}
+
+.logo-ita{
+    margin-top: 45px;
+}
+
+.items,.country{
+    margin-top: 30px;
+    color: white; 
+    list-style-type: none;  
+}
+
+.items-highlight{
+    color: cornflowerblue;
+    font-weight: bold;
+    font-size: 30px;
+    font-family: 'Pontano Sans', sans-serif;
+    list-style-type: none;
+}
+
+.menus-container{
+    width: 100%;
+}
+
+.small-logo{
+    padding-left: 640px;
+}
+
+.sign-up{
+    background-color: #8EA1E1;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    width: 150px;
+    height: 50px;
+    border-radius: 30px;
+    line-height: 50px;
+    padding-left: 17px;
+    position: relative;
+    right: 500px;
+}
